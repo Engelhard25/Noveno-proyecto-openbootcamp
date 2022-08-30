@@ -1,0 +1,17 @@
+{
+  "name": "noveno-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto 9 errores + winston",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "OpenBootcamp, gestión de errores"
+  ],
+  "author": "Engelhard Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.1"
+  }
+}
